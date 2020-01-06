@@ -1,5 +1,8 @@
 > notes to the board
 
+* This topic would work either as a short talk, or as a workshop.  I am comfortable doing either
+  * as a short talk it would be the main ideas behind forkable education, how we do it at HYF Be, and how to get started on your own. (with a call to come talk afterwards).  The talk would be for all audiences
+  * as a workshop it would be a short presentation followed by a guided walk-through of how we manage class. Giving everyone a chance to try setting up their own HYF class.  We are writing a complete guide for how to do this that will be ready before April.  This format would require experience with github, and some html/javascript.
 * I haven't given this talk previously, but did give a similar one last year: [Fosdem Archive](https://archive.fosdem.org/2019/schedule/event/js_teaching_tool/),  [slide-show and write-up](https://github.com/janke-learning/fosdem-2019)
 * I have previously presented in French at Sett-Namur, though this though was not recorded: [slides](https://blocks-to-text.github.io/sett-namur-19) (french), [write-up](https://github.com/blocks-to-text/top) (english).  And will present again this year - [Un pas d'avance](https://www.sett-namur.be/activity/apprentissage-de-la-programmation-toujours-avoir-un-pas-davance/), [Inclure l'iInformatiques](https://www.sett-namur.be/activity/inclure-linformatique-dans-toutes-les-disciplines-trucs-et-astuces/)
 * And gave a smaller talk on Open Source Software for educators at EduCode: [Slides](https://colevanderswands.github.io/educode-19)
