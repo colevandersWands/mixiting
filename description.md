@@ -1,16 +1,18 @@
-> the description section, and the 20 bullet points
+> the description section, including a paragraph that can be used on the site and the 20 bullet points
 
 # HackYourFuture Belgium: The Forkable Code School
 
-Put together your own code school with no more technical know-how than it takes to complete the final project. Join us to learn about what it takes to adapt our code school to your needs.
+There's something missing out there in the world of programming education.  Something between an online learning platforms (think FreeCodeCamp or Khan Academy) and a full-blown Learning Management System (think Canvas or Moodle). A lean, accessible way to organize and manage a study group or small coding school using only the tools of the trade. No more, no less.
 
-## Part 0: Open, Useful, Usable, Used  
+Come learn how you can organize your own code school with no more technical know-how than it takes to complete the final project. Looking to organize a regular study group with some friends? For your neighborhood? Or would you trying to start your own HackYourFuture? Not a problem!  We'll help you through the first steps of setting up your GitHub learning environments.
+
+## Part 0: Open, Useful, Usable, Used
 
 * ["Open knowledge is what open data becomes when it’s useful, usable and used"](https://okfn.org/opendata/)
 * "Open education is what happens when open source didactics are useful, usable and used"
 
 ## Part 1: Forkable Education
-  
+
 * Open Source Educational Resources are not by default Open Education: [Open Source !== Open Education](https://github.com/janke-learning/fosdem-2019/blob/master/5-open-source-open-education.md)
 * Forkability:  The barriers to entry between clicking the "fork" button, and adapting/applying the resource to your context
 * Open Source only become Open Education when it's forkability is within the means/expertise of participating educators and students: [Agency](https://github.com/janke-learning/fosdem-2019#agency), [Ownership](https://github.com/janke-learning/fosdem-2019#ownership)
@@ -25,7 +27,7 @@ Put together your own code school with no more technical know-how than it takes 
 
 * Low barrier of entry - get started with nothing more than a forked & configured class repo: [template](https://github.com/HackYourFutureBelgium/class-repo-template), [example `class-7`](https://github.com/HackYourFutureBelgium/class-7), [example `class-8`](https://github.com/HackYourFutureBelgium/class-8). (and of course, some students and teachers :)
 * Quality learning resources all one fork away: [interactive code-alongs embedded in class slides](https://hackyourfuture.be/incremental-development/week-1), explorables ([Inspecting the DOM](https://hackyourfuture.be/inspecting-the-dom) & [Array Methods](https://hackyourfuture.be/array-methods)), and [aggregated study references](https://awesome.hackyourfuture.be)
-* Incrementally adaptable curriculum - A [tested curriculum](https://curriculum.hackyourfuture.be) (v 2.0 under development) composed of one repository per module.  You can easily configure your class repos to add/remove modules, to read from your fork, or from any other repository. 
+* Incrementally adaptable curriculum - A [tested curriculum](https://curriculum.hackyourfuture.be) (v 2.0 under development) composed of one repository per module.  You can easily configure your class repos to add/remove modules, to read from your fork, or from any other repository.
 * Accessible workflows - Composed entirely out of conventional collaborative workflows, classwork is easy to manage. This also ensures students develop strong habits simply by interacting with course materials, and [by submitting their homework](https://github.com/hackyourfuturebelgium/homework-submission) - [Context is content!](https://github.com/janke-learning/fosdem-2019/blob/master/3-context-is-content.md).
 * Forkable Administration infrastructure (still under development) - Manage class & event schedules, coach & student profiles, and keep an overview of each student's progress. Just fork, configure and deploy!  Most of the student monitoring is done by using the GitHub api, the rest is coaches and admins directly in the platform. (the app is developed with the same technologies, at the same level as the final project)
 
@@ -37,6 +39,6 @@ Put together your own code school with no more technical know-how than it takes 
 * Funding: do you have access to funding for a coordinator/educational-director? for classrooms, materials and transportation?
 * Core team: what skills and experience do you have in your core team (technical, administrative, communications)? How can use adapt the course to play to your strengths?
 
-## Part 5: Get started!  
+## Part 5: Get started!
 
 * Come hang out after the talk, we can help each other get started.

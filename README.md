@@ -8,6 +8,11 @@ to be determined, short talk or workshop make the most sense.
 
 will depend on the format. a short talk would be all, a workshop would require a bit of github/similar experience
 
+## pitch
+
+asdfasdf
+
+
 ## description
 
 this is the part that is likely overkill. they said 20 bullet points, but this is a bit more involved than this.  and wouldn't work well as a short description on the site
