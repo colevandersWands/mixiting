@@ -2,14 +2,14 @@
 
 # HackYourFuture Belgium: The Forkable Code School
 
-There's something missing out there in the world of programming education.  Something between an online learning platforms (think FreeCodeCamp or Khan Academy) and a full-blown Learning Management System (think Canvas or Moodle). A lean, accessible way to organize and manage a study group or small coding school using only the tools of the trade. No more, no less.
+Something is missing in the world of open computing education.  Something between an online learning platforms (FreeCodeCamp, Khan Academy) and full Learning Management Systems (Canvas, Moodle).  What's missing is a lean, accessible way to manage anything from a study group to a full coding school using only the tools of the trade. No more, no less.
 
-Come learn how you can organize your own code school with no more technical know-how than it takes to complete the final project. Looking to organize a regular study group with some friends? For your neighborhood? Or would you trying to start your own HackYourFuture? Not a problem!  We'll help you through the first steps of setting up your GitHub learning environments.
+Come learn how we use open source workflows and tools to run HackYourFuture Belgium.  And maybe hack your own future while you're at it :)
 
 ## Part 0: Open, Useful, Usable, Used
 
 * ["Open knowledge is what open data becomes when it’s useful, usable and used"](https://okfn.org/opendata/)
-* "Open education is what happens when open source didactics are useful, usable and used"
+* "Open education is what happens when open educational resources are useful, usable and used"
 
 ## Part 1: Forkable Education
 
@@ -33,7 +33,7 @@ Come learn how you can organize your own code school with no more technical know
 
 ## Part 4: What's your hack?
 
-* Education needs to fit your context.  What are your community's needs? constraints? strengths? Answering these questions is the first step.
+* Education needs to fit your context.  What are your community's needs? short-comings? strengths? Setting constructive constraints on your project is the first step to success.
 * Your students: what's their experience level coming in? what should they be able to do by the end? how can your course format complement their lives?
 * Teaching capacity: will you have experienced teachers availale? industry professionals? or is this a peer study course?
 * Funding: do you have access to funding for a coordinator/educational-director? for classrooms, materials and transportation?

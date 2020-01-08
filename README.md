@@ -10,7 +10,8 @@ will depend on the format. a short talk would be all, a workshop would require a
 
 ## pitch
 
-asdfasdf
+Something is missing in the world of open computing education.  Something between an online learning platforms (FreeCodeCamp, Khan Academy) and full Learning Management Systems (Canvas, Moodle).  What's missing is a lean, accessible way to manage anything from a study group to a full coding school using only the tools of the trade. No more, no less.
+Come learn how we use open source workflows and tools to run HackYourFuture Belgium.  And maybe hack your own future while you're at it :)
 
 
 ## description
