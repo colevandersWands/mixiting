@@ -34,6 +34,6 @@ Come learn how HackYourFuture Belgium manages 40+ students at a time with (almos
 
 ## bio
 
-Hello. I like to quietly do good work behind the scenes.  From time to time I like to pop out and share what we're learning here in Brussels.
+Hello. I like to quietly do good work behind the scenes.  From time to time I pop out to share what we're learning here in Brussels.
 
 I don't think of me as a developer, and often that's very helpful for teaching programming.
