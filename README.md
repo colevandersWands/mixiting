@@ -11,7 +11,7 @@ will depend on the format. a short talk would be all, a workshop would require a
 ## pitch
 
 Something is missing in open computing education.  Something between an online learning platform and a full Learning Management System.
-Come learn how HackYourFuture Belgium manages 40+ students at a time with with (almost) nothing but a GitHub account and standard collaborative workflows.
+Come learn how HackYourFuture Belgium manages 40+ students at a time with (almost) nothing but a GitHub account and standard collaborative workflows.
 
 ## description
 
