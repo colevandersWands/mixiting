@@ -25,7 +25,7 @@ Come learn how we use open source workflows and tools to run HackYourFuture Belg
 
 ## Part 3: How we HYF
 
-* _Low barrier to entry_ - get started with nothing more than a forked & configured class repo: [example `class-11-12`](https://hackyourfuture.be/class-11-12). (and of course, some students and teachers :)
+* _Low barrier to entry_ - get started with nothing more than a forked & configured class repo: [example `class-13-14`](https://hackyourfuture.be/class-13-14). (and of course, some students and teachers :)
 * _Quality learning resources one fork away_ - [interactive code-alongs embedded in class slides](https://hackyourfuture.be/asynchronous-programming/isolate), explorables ([Inspecting the DOM](https://hackyourfuture.be/inspecting-the-dom) & [Array Methods](https://hackyourfuture.be/array-methods)), and [aggregated study references](https://study.hackyourfuture.be)
 * _Incrementally adaptable curriculum_ - A [tested curriculum](https://home.hackyourfuture.be/curriculum) (v 2.0 under development) composed of one repository per module.  You can easily configure your class repos to add/remove modules, to read from your fork, or from any other repository.
 * _Accessible workflows_ - Composed entirely out of conventional collaborative workflows, classwork is easy to manage. This also ensures students develop strong habits simply by interacting with course materials, and by completing their [individual](https://home.hackyourfuture.be/students/individual-assignments) or [group](https://home.hackyourfuture.be/students/group-projects) assignments - [Context is content!](https://github.com/janke-learning/fosdem-2019/blob/master/3-context-is-content.md).
