@@ -1,6 +1,6 @@
 > the description section, including a paragraph that can be used on the site and the 20 bullet points
 
-# Forkable Education: HackYourFuture Belgium
+# Forkable Education: [HackYourFuture Belgium](https://home.hackyourfuture.be/)
 
 Something is missing in the world of open computing education.  Something between online learning platforms (FreeCodeCamp, Khan Academy) and full Learning Management Systems (Canvas, Moodle).  What's missing is a lean, accessible way to manage anything from a study group to a full coding school using only the tools of the trade. No more, no less.
 
